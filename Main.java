@@ -1,3 +1,5 @@
+
+//basic logic without GUI ActionListeners.
 import java.util.*;
 import java.security.SecureRandom;
 
