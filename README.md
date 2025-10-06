@@ -5,10 +5,15 @@ A simple yet functional Password Generator built using Java Swing that allows us
 Features:
 
 ->Interactive GUI interface built with Java Swing
+
 ->Options to include/exclude specific character types
+
 ->Displays password strength based on selected options
+
 ->A robust real-time length validation using a DocumentListener to provide immediate feedback.
+
 ->A final, crucial validation check inside the button's ActionListener to ensure the program runs without errors.
+
 ->Clean and user-friendly layout
 
 This project demonstrates the use of event handling, layout management, and GUI design principles in Java.
