@@ -2,7 +2,8 @@
 
 🔐 Password Generator (Java Swing) 
 A simple yet functional Password Generator built using Java Swing that allows users to generate secure passwords based on selected criteria, like types of Characters allowed along with Strength Checker.
-Features:
+
+Features include:
 
 ->Interactive GUI interface built with Java Swing
 
@@ -17,3 +18,5 @@ Features:
 ->Clean and user-friendly layout
 
 This project demonstrates the use of event handling, layout management, and GUI design principles in Java.
+
+*NOTE: passwordGUI.java is the final application with GUI, Main.java is just a trial logic without GUI.*
